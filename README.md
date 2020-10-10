@@ -21,8 +21,8 @@
 * Number and name of feature: #3 Modify the Contents
 * Estimate of time needed to complete: 2hr
 * Start time: 2:15pm
-* Finish time:
-* Actual time needed to complete:
+* Finish time: 4:08pm
+* Actual time needed to complete: ~2hr
 
 ## Feature #4
 
