@@ -29,5 +29,5 @@
 * Number and name of feature: #4 Add functionality
 * Estimate of time needed to complete: 2hr
 * Start time: 4:15pm
-* Finish time: 
-* Actual time needed to complete:
+* Finish time: 5pm
+* Actual time needed to complete: 45m
