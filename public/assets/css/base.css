@@ -75,7 +75,7 @@ html {
 
 body {
     background: #fff;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 19pt;
     font-weight: 300;
     line-height: 1.75em;
@@ -94,7 +94,7 @@ body {
     }
 
 input, textarea, select {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 19pt;
     font-weight: 300;
     line-height: 1.75em;
@@ -103,7 +103,7 @@ input, textarea, select {
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
-    color: #666;
+    color: #353535;
     line-height: 1.5em;
 }
 
@@ -126,7 +126,7 @@ h2 {
     }
 
         h2.alt strong {
-            color: #666;
+            color: #353535;
         }
 
 h3 {
@@ -166,7 +166,7 @@ a {
 }
 
     a:hover {
-        color: #E27689;
+        color: #3C6E71;
         border-bottom-color: rgba(255, 255, 255, 0);
     }
 
