@@ -3,8 +3,8 @@
 ## Feature #1
 
 Number and name of feature: #1 Deployment
-Estimate of time needed to complete: 1hr
-Start time: 30m
+Estimate of time needed to complete: 30m
+Start time: 12:45pm
 Finish time:
 Actual time needed to complete:
 
