@@ -26,8 +26,8 @@
 
 ## Feature #4
 
-* Number and name of feature:
-* Estimate of time needed to complete:
-* Start time:
-* Finish time:
+* Number and name of feature: #4 Add functionality
+* Estimate of time needed to complete: 2hr
+* Start time: 4:15pm
+* Finish time: 
 * Actual time needed to complete:
