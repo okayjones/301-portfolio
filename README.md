@@ -18,9 +18,9 @@
 
 ## Feature #3
 
-* Number and name of feature:
-* Estimate of time needed to complete:
-* Start time:
+* Number and name of feature: #3 Modify the Contents
+* Estimate of time needed to complete: 2hr
+* Start time: 2:15pm
 * Finish time:
 * Actual time needed to complete:
 

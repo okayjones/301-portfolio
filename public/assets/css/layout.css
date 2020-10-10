@@ -1747,8 +1747,9 @@ section, article {
 
         #main > section.one {
             background-color: #81918E;
-            background-image: url("../../images/banner.jpg");
+            background-image: url("../../images/banner.jpg"); /*Photo by Wesson Wang on Unsplash*/
         }
+        
 
         #main > section.two {
             background-color: #f5fafa;
